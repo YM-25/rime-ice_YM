@@ -8,8 +8,7 @@ sync/
 *.userdb/
 installation.yaml
 user.yaml
-*.custom.yaml
-!others/**/*.custom.yaml
+# 允许追踪自定义配置文件，所以移除了 *.custom.yaml
 
 custom_phrase_double.txt
 others/script/scel2txt/out/*
