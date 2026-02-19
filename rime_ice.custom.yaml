@@ -5,5 +5,8 @@ patch:
   # 【置顶候选项】
   # 格式：编码<Tab>字词1 字词2 ……
   # 注意：编码和字词中间必须是一个 Tab 制表符
-  # pin_cand_filter:
-  #   - ws	雾凇
+  pin_cand_filter:
+    # 格式：编码<Tab>字词1<Space>字词2……
+    # 单编码
+    - q	去 千
+    - w	我 万 往
