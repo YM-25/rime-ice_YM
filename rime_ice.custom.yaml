@@ -9,4 +9,12 @@ patch:
     # 格式：编码<Tab>字词1<Space>字词2……
     # 单编码
     - w	我 万 往
+    - b	吧 把
     - wd	我的
+    - ful	服了
+    - nim	你妈 
+    - gan	干
+    - wq	我去
+    - xs	笑死
+    - woc	卧槽
+    - kanb	看吧
