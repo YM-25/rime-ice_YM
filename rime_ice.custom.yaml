@@ -20,3 +20,6 @@ patch:
     - woc	卧槽
     - kanb	看吧    
     - shib	是吧
+  
+  engine/filters/+:
+    - lua_filter@*split_filter
