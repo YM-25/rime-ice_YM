@@ -1,0 +1,72 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: espanso_symbols
+version: "2026-03-08"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+# 这个词典保存了各种 Espanso 提供的便利符号
+# 触发词均以小写 i 开头以避免与正常拼音和自带 v 模式冲突
+
+# Greek letters
+Α	iA
+α	ia
+Β	iB
+β	ib
+ϐ	iib
+Δ	iD
+δ	id
+Ε	iE
+ϵ	ie
+ε	iie
+Φ	iP
+𝜙	ip
+φ	iip
+Γ	iG
+γ	ig
+Η	iE
+η	ie
+Ι	iI
+ι	ii
+Θ	iT
+θ	it
+ϑ	iit
+Κ	iK
+κ	ik
+ϰ	iik
+Λ	iL
+λ	il
+Μ	iM
+μ	im
+Ν	iN
+ν	in
+Ο	iOmicron
+ο	iomicron
+Π	iPi
+π	ipi
+ϖ	iipi
+Χ	iC
+χ	ic
+Ρ	iR
+ρ	ir
+ϱ	iir
+Σ	iS
+σ	is
+ς	iis
+Τ	iTau
+τ	itau
+Υ	iU
+υ	iu
+Ω	iO
+ω	io
+Ξ	iXi
+ξ	ixi
+Ψ	iPsi
+Ⲯ	iiPsi
+ψ	ipsi
+ⲯ	iipsi
+Ζ	iZ
+ζ	iz

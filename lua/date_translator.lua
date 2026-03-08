@@ -23,10 +23,10 @@ function M.func(input, seg, env)
     -- 日期
     if (input == M.date) then
         local current_time = os.time()
-        yield_cand(seg, os.date('%Y-%m-%d', current_time))
-        yield_cand(seg, os.date('%Y/%m/%d', current_time))
         yield_cand(seg, os.date('%Y.%m.%d', current_time))
         yield_cand(seg, os.date('%Y%m%d', current_time))
+        yield_cand(seg, os.date('%Y-%m-%d', current_time))
+        yield_cand(seg, os.date('%Y/%m/%d', current_time))
         yield_cand(seg, os.date('%Y年%m月%d日', current_time):gsub('年0', '年'):gsub('月0','月'))
 
     -- 时间
@@ -39,15 +39,21 @@ function M.func(input, seg, env)
     elseif (input == M.week) then
         local current_time = os.time()
         local week_tab = {'日', '一', '二', '三', '四', '五', '六'}
-        local text = week_tab[tonumber(os.date('%w', current_time) + 1)]
-        yield_cand(seg, '星期' .. text)
-        yield_cand(seg, '礼拜' .. text)
-        yield_cand(seg, '周' .. text)
+        local week_en_short = {'Sun.', 'Mon.', 'Tue.', 'Wed.', 'Thu.', 'Fri.', 'Sat.'}
+        local week_en_full = {'Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'}
+        local idx = tonumber(os.date('%w', current_time)) + 1
+        
+        yield_cand(seg, week_en_short[idx])
+        yield_cand(seg, week_en_full[idx])
+        yield_cand(seg, '周' .. week_tab[idx])
+        yield_cand(seg, '星期' .. week_tab[idx])
+        yield_cand(seg, '礼拜' .. week_tab[idx])
 
-    -- ISO 8601/RFC 3339 的时间格式 （固定东八区）（示例 2022-01-07T20:42:51+08:00）
+    -- ISO 8601/RFC 3339 的时间格式 （根据当前本地时区）（示例 2022-01-07T20:42:51+0800 或者 Z）
     elseif (input == M.datetime) then
         local current_time = os.time()
-        yield_cand(seg, os.date('%Y-%m-%dT%H:%M:%S+08:00', current_time))
+        yield_cand(seg, os.date('%Y-%m-%dT%H:%M:%S%z', current_time))
+        -- 如果支持插入冒号，可以把格式修得更规范，但常规 %z 已经足够表意时区
         yield_cand(seg, os.date('%Y-%m-%d %H:%M:%S', current_time))
         yield_cand(seg, os.date('%Y%m%d%H%M%S', current_time))
 

@@ -20,6 +20,21 @@ patch:
     - woc	卧槽
     - kanb	看吧    
     - shib	是吧
+    - ng	那个 哪个 
   
+  speller/algebra/+:
+    # 防止将类似 "dui" 的输入错误当作 "du" + "i(希腊字母打头)"
+    # 这里将所有非词首位置的 i 前面的分隔符去掉或者做特定模糊音，其实更好的是将其作为单独的一个 recognizer pattern
+    - derive/^i([a-zA-Z]+)$/I$1/
+
+  recognizer/patterns/espanso: "^i[A-Za-z]+$"
+
   engine/filters/+:
     - lua_filter@*split_filter
+
+  date_translator:
+    date: ida      # 日期： 2022-11-29
+    time: iti      # 时间： 18:13
+    week: iw       # 星期： 星期二
+    datetime: idt   # ISO 8601： 2022-11-29T18:13:11+08:00
+    timestamp: itimestamp  # 时间戳： 1669716794
