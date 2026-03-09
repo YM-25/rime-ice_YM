@@ -1,0 +1,57 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: melt_de
+  name: Easy German
+  version: "2024.03.09"
+  author:
+    - Antigravity
+  description: Easy German dictionary
+  dependencies:
+    - melt_de
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ASCII-OFF, ASCII-ON]
+
+engine:
+  processors:
+    - ascii_composer
+    - key_binder
+    - speller
+    - recognizer
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - matcher
+    - ascii_segmentor
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - table_translator
+    - punct_translator
+  filters:
+    - uniquifier
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
+  delimiter: " '"
+  algebra:
+    # 派生无单个特殊字符的拼写
+    - derive/[.]//
+    # 禁用非字母数字开头的编码
+    - erase/^[^a-zA-Z0-9].+$/
+    
+    # 匹配大写输入（如用户输入 Maedchen -> maedchen）
+    - derive/^([A-Z])/\l$1/
+    - derive/^([a-z])/\u$1/
+    - derive/^.+$/\L$0/
+    - derive/^.+$/\U$0/
+
+translator:
+  dictionary: melt_de
+  spelling_hints: 9

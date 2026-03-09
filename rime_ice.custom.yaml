@@ -28,14 +28,24 @@ patch:
     - hd	好的
     - haiz	还在
   
-  "schema/dependencies/@next": espanso_symbols
-  engine/translators/@next: table_translator@espanso_translator
+  schema/dependencies/+:
+    - espanso_symbols
+    - melt_de
+  engine/translators/+:
+    - table_translator@espanso_translator
+    - table_translator@melt_de
   espanso_translator:
     dictionary: espanso_symbols
     enable_completion: false
     enable_sentence: false
     enable_user_dict: false
     initial_quality: 1000
+
+  melt_de:
+    dictionary: melt_de
+    initial_quality: 0.9
+    enable_completion: true
+    enable_sentence: false
 
 
 
