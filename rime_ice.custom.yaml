@@ -10,8 +10,9 @@ patch:
     # 单编码
     - w	我 万 往
     - s	是
-    - b	吧 把
+    - ws	我是
     - wd	我的
+    - b	吧 把
     - ful	服了
     - nim	你妈 
     - gan	干
