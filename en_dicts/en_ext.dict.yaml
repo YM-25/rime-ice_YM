@@ -101,20 +101,6 @@ Saturday	Sat
 Sunday	Sunday
 Sun.	Sun.
 Sunday	Sun
-# 生活大爆炸 & 老友记
-Sheldon	Sheldon
-Leonard	Leonard
-Howard	Howard
-Rajesh	Rajesh
-Penny	Penny
-Bernadette	Bernadette
-Amy	Amy
-Rachel	Rachel
-Monica	Monica
-Joey	Joey
-Ross	Ross
-Chandler	Chandler
-Phoebe	Phoebe
 # 特定的排序，为了每组的排序，code 必须保持一致
 hell	hell	2
 he'll	hell	1
@@ -124,7 +110,7 @@ well	well	2
 we'll	well	1
 ill	ill	2
 I'll	ill	1
-ID	id	2
+# ID	id	2
 I'd	id	1
 shed	shed	2
 she'd	shed	1
@@ -132,164 +118,13 @@ net	net	2
 .NET	net	1
 .NET	dotnet
 # 带权重的系列
-iPhone	iPhone	999
-iPhone 17	iPhone	3
-iPhone 17 Pro	iPhone	2
-iPhone 17 Pro Max	iPhone	1
-Mac OS X	MacOSX	999
-Mac OS X Cheetah	MacOSX	1
-Mac OS X Puma	MacOSX	2
-Mac OS X Jaguar	MacOSX	3
-Mac OS X Panther	MacOSX	4
-Mac OS X Tiger	MacOSX	5
-Mac OS X Leopard	MacOSX	6
-Mac OS X Snow Leopard	MacOSX	7
-OS X	OSX	999
-OS X Lion	OSX	1
-OS X Mountain Lion	OSX	2
-OS X Mavericks	OSX	3
-OS X Yosemite	OSX	4
-OS X El Capitan	OSX	5
-macOS	macOS	999
-macOS Sierra	macOS	1
-macOS High Sierra	macOS	2
-macOS Mojave	macOS	3
-macOS Catalina	macOS	4
-macOS Big Sur	macOS	5
-macOS Monterey	macOS	6
-macOS Ventura	macOS	7
-macOS Sonoma	macOS	8
-macOS Sequoia	macOS	9
-macOS Tahoe	macOS	10
-Windows	Windows	999
-Windows 95	Windows	1
-Windows 98	Windows	2
-Windows Me	Windows	3
-Windows 2000	Windows	4
-Windows XP	Windows	5
-Windows XP	WindowsXP
-Windows Vista	Windows	6
-Windows 7	Windows	7
-Windows 8	Windows	8
-Windows 10	Windows	10
-Windows 11	Windows	11
-# Windows 12	Windows	12
-# +_+
-iPhone 3G	iPhone3G
-iPhone 3GS	iPhone3GS
-iPhone 4	iPhone4
-iPhone 4S	iPhone4S
-iPhone 5	iPhone5
-iPhone 5C	iPhone5C
-iPhone 5S	iPhone5S
-iPhone 6	iPhone6
-iPhone 6 Plus	iPhone6Plus
-iPhone 6S	iPhone6S
-iPhone 6S Plus	iPhone6SPlus
-iPhone SE	iPhoneSE
-iPhone 7	iPhone7
-iPhone 7 Plus	iPhone7Plus
-iPhone 8	iPhone8
-iPhone 8 Plus	iPhone8Plus
-iPhone X	iPhoneX
-iPhone XR	iPhoneXR
-iPhone XS	iPhoneXS
-iPhone XS Max	iPhoneXSMax
-iPhone 11	iPhone11
-iPhone 11 Pro	iPhone11Pro
-iPhone 11 Pro Max	iPhone11ProMax
-iPhone 12	iPhone12
-iPhone 12 Mini	iPhone12Mini
-iPhone 12 Pro	iPhone12Pro
-iPhone 12 Pro Max	iPhone12ProMax
-iPhone 13	iPhone13
-iPhone 13 Mini	iPhone13Mini
-iPhone 13 Pro	iPhone13Pro
-iPhone 13 Pro Max	iPhone13ProMax
-iPhone 14	iPhone14
-iPhone 14 Plus	iPhone14Plus
-iPhone 14 Pro	iPhone14Pro
-iPhone 14 Pro Max	iPhone14ProMax
-iPhone 15	iPhone15
-iPhone 15 Plus	iPhone15Plus
-iPhone 15 Pro	iPhone15Pro
-iPhone 15 Pro Max	iPhone15ProMax
-iPhone 16	iPhone16
-iPhone 16e	iPhone16e
-iPhone 16 Plus	iPhone16Plus
-iPhone 16 Pro	iPhone16Pro
-iPhone 16 Pro Max	iPhone16ProMax
-iPhone 17	iPhone17
-iPhone Air	iPhoneAir
-iPhone 17 Pro	iPhone17Pro
-iPhone 17 Pro Max	iPhone17ProMax
-Mac OS X Cheetah	MacOSXCheetah
-Mac OS X Puma	MacOSXPuma
-Mac OS X Jaguar	MacOSXJaguar
-Mac OS X Panther	MacOSXPanther
-Mac OS X Tiger	MacOSXTiger
-Mac OS X Leopard	MacOSXLeopard
-Mac OS X Snow Leopard	MacOSXSnowLeopard
-OS X Lion	OSXLion
-OS X Mountain Lion	OSXMountainLion
-OS X Mavericks	OSXMavericks
-OS X Yosemite	OSXYosemite
-OS X El Capitan	OSXElCapitan
-macOS Sierra	macOSSierra
-macOS High Sierra	macOSHighSierra
-macOS Mojave	macOSMojave
-macOS Catalina	macOSCatalina
-macOS Big Sur	macOSBigSur
-macOS Monterey	macOSMonterey
-macOS Ventura	macOSVentura
-macOS Sonoma	macOSSonoma
-macOS Sequoia	macOSSequoia
-macOS Tahoe	macOSTahoe
-Windows 95	Windows95
-Windows 98	Windows98
-Windows Me	WindowsMe
-Windows 2000	Windows2000
-Windows Vista	WindowsVista
-Windows 7	Windows7
-Windows 8	Windows8
-Windows 10	Windows10
-Windows 11	Windows11
-# Windows 12	Windows12
-ERC-20	ERC-20
-ERC-721	ERC-721
-ERC-1155	ERC-1155
-High Sierra	HighSierra
-Mojave	Mojave
-Big Sur	BigSur
-Sequoia	Sequoia
-TypeORM	TypeORM
-RPG	RPG
-Role-Playing Game	RPG
-Role-Playing Game	RolePlayingGame
-ADC	ADC
-Attack Damage Carry	ADC
-Attack Damage Carry	AttackDamageCarry
-APC	APC
-Ability Power Carry	APC
-Ability Power Carry	AbilityPowerCarry
-GDP	GDP
-GDP per capita	GDPpercapita
-Gross Domestic Product	GDP
-Gross Domestic Product	GrossDomesticProduct
-Gross Domestic Product per capita	GrossDomesticProductpercapita
-LOL	LOL
-League of Legends	LOL
-League of Legends	LeagueofLegends
-Laugh Out Loudly	LOL
-Laugh Out Loudly	LaughOutLoudly
-SQL Server	SQLServer
 Microsoft SQL Server	SQLServer
 Microsoft SQL Server	MicrosoftSQLServer
 SSH	SSH
 Secure Shell	SSH
 Secure Shell	SecureShell
 ISO	ISO
-International Organization for Standardization	ISO
+International Organisation for Standardisation	ISO
 ISO 8601	ISO8601
 RFC	RFC
 Request for Comments	RFC
@@ -297,77 +132,28 @@ RFC 3339	RFC3339
 RFCs	RFCs
 IETF	IETF
 Internet Engineering Task Force	IETF
-Pro Max	ProMax
-Aeron	Aeron
-Aeron Chair	AeronChair
-Netscape	Netscape
 WeChat	WeChat
-Dota	Dota
-Superlist	Superlist
-DJ	DJ
-Disc Jockey	DJ
 DLC	DLC
-Downloadable content	DLC
-Downloadable content	Downloadablecontent
 Quora	Quora
 LinkedIn	LinkedIn
-COO	COO
-Chief Operating Officer	COO
-Chief Operating Officer	ChiefOperatingOfficer
-iShot	iShot
-TapTap	TapTap
-HDD	HDD
-Hard disk drive	HDD
-Hard disk drive	Harddiskdrive
-HHD	HHD
-Hybrid drive	HHD
-Hybrid drive	Hybriddrive
 SSD	SSD
-Solid-state drive	SSD
-Solid-state drive	Solid-statedrive
 CPU	CPU
-Central Processing Unit	CPU
-Central Processing Unit	CentralProcessingUnit
 GPU	GPU
-Graphics Processing Unit	GPU
-Graphics Processing Unit	GraphicsProcessingUnit
 MCU	MCU
 ARM	ARM
 Advanced RISC Machine	ARM
 Advanced RISC Machine	AdvancedRISCMachine
 eGPU	eGPU
-One Piece	OnePiece
-CBD	CBD
-CCTV	CCTV
-Closed-Circuit Television	CCTV
-Closed-Circuit Television	Closed-CircuitTelevision
-China Central Television	CCTV
 ColorOS	ColorOS
-China Central Television	ChinaCentralTelevision
 GTA	GTA
-Grand Theft Auto	GTA
-Grand Theft Auto	GrandTheftAuto
-GTAV	GTAV
-Grand Theft Auto V	GTAV
-Grand Theft Auto V	GrandTheftAutoV
-LGBT	LGBT
 GPS	GPS
 ATM	ATM
-automated teller machine	ATM
-automated teller machine	automatedtellermachine
 CentOS	CentOS
 Debian	Debian
 BBC	BBC
 DataGrip	DataGrip
 AlphaGo	AlphaGo
 AlphaFold	AlphaFold
-CS:GO	CS:GO
-Counter-Strike: Global Offensive	CS:GO
-Counter-Strike: Global Offensive	Counter-Strike:GlobalOffensive
-Counter-Strike	Counter-Strike
-Counter-Strike 2	Counter-Strike2
-CS2	CS2
-Counter-Strike 2	CS2
 Tesla	Tesla
 Code Runner	CodeRunner
 AfterShokz Aeropex	AfterShokzAeropex
@@ -381,55 +167,19 @@ Authenticator	Authenticator
 DeepMind	DeepMind
 Figma	Figma
 Google	Google
-Google Ads	GoogleAds
-Google AdSense	GoogleAdSense
-Google Analytics	GoogleAnalytics
-Google Authenticator	GoogleAuthenticator
-Google Bard	GoogleBard
-Googlebot	Googlebot
-Google Calendar	GoogleCalendar
-Google Chrome	GoogleChrome
-Google DeepMind	GoogleDeepMind
-Google Docs	GoogleDocs
-Google Drive	GoogleDrive
-Google Earth	GoogleEarth
-Google Fi	GoogleFi
-Google Fi Wireless	GoogleFiWireless
-Google Gemini	GoogleGemini
-Google Gemini Advanced	GoogleGeminiAdvanced
-Google Keep	GoogleKeep
-Google Maps	GoogleMaps
-Google One	GoogleOne
-Google Photos	GooglePhotos
-Google Pixel	GooglePixel
-Google Play	GooglePlay
-Google Play Music	GooglePlayMusic
-Google TV	GoogleTV
-Google Voice	GoogleVoice
-Google Workspace	GoogleWorkspace
 NotebookLM	NotebookLM
 Google NotebookLM	GoogleNotebookLM
 WYSIWYG	WYSIWYG
-What You See Is What You Get	WYSIWYG
 Mark Text	MarkText
 Joplin	Joplin
 SteamOS	SteamOS
 Steam Deck	SteamDeck
 Steam Machine	SteamMachine
 TikTok	TikTok
-IDC	IDC
-International Data Corporation	IDC
-International Data Corporation	InternationalDataCorporation
-Wunderlist	Wunderlist
 VMware	VMware
 Flyme	Flyme
-VMware Fusion	VMwareFusion
-VMware Fusion Player	VMwareFusionPlayer
-VMware Fusion Pro	VMwareFusionPro
-Vanilla	Vanilla
 Ubisoft	Ubisoft
 Twitch	Twitch
-Todoist	Todoist
 TeamViewer	TeamViewer
 Sleep Cycle	SleepCycle
 Sony	Sony
@@ -1445,8 +1195,8 @@ Berkeley Software Distribution	BerkeleySoftwareDistribution
 DNSPod	DNSPod
 Bandizip	Bandizip
 NATO	NATO
-North Atlantic Treaty Organization	NATO
-North Atlantic Treaty Organization	NorthAtlanticTreatyOrganization
+North Atlantic Treaty Organisation	NATO
+North Atlantic Treaty Organisation	NorthAtlanticTreatyOrganisation
 MissWarmJ	MissWarmJ
 NASA	NASA
 National Aeronautics and Space Administration	NASA
@@ -1929,7 +1679,7 @@ Model-View-Controller	MVC
 MVVM	MVVM
 Model-View-ViewModel	MVVM
 NGO	NGO
-Non-Governmental Organization	NGO
+Non-Governmental Organisation	NGO
 OMG	OMG
 Oh My God	OMG
 RFT	RFT
@@ -2123,7 +1873,7 @@ Maeve	Maeve
 Oppenheimer	Oppenheimer
 UltraEdit	UltraEdit
 GoldenDict	GoldenDict
-tokenizer	tokenizer
+tokeniser	tokeniser
 ControlNet	ControlNet
 CISC	CISC
 RISC	RISC
@@ -2158,12 +1908,12 @@ ProtonMail	ProtonMail
 Elasticsearch	Elasticsearch
 OpenSearch	OpenSearch
 rho	rho
-D&D	D&D
-Dungeons & Dragons	D&D
-Dungeons & Dragons	Dungeons&Dragons
-DnD	DnD
-D&D	DnD
-Dungeons & Dragons	DnD
+# D&D	D&D
+# Dungeons & Dragons	D&D
+# Dungeons & Dragons	Dungeons&Dragons
+# DnD	DnD
+# D&D	DnD
+# Dungeons & Dragons	DnD
 Minecraft	Minecraft
 LSP	LSP
 Language Server Protocol	LSP
@@ -2232,7 +1982,7 @@ Brotato	Brotato
 engineman	engineman
 unhuman	unhuman
 unhumified	unhumified
-unhumanize	unhumanize
+unhumanise	unhumanise
 P2P	P2P
 peer-to-peer	P2P
 F2A	F2A

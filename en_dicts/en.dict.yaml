@@ -739,7 +739,7 @@ amnesty	amnesty
 among	among
 amongst	amongst
 amor	amor
-amortization	amortization
+amortisation	amortisation
 # amos	amos
 amount	amount
 amounts	amounts
@@ -782,10 +782,10 @@ analysts	analysts
 analytic	analytic
 analytical	analytical
 analytics	analytics
-analyze	analyze
-analyzed	analyzed
-analyzer	analyzer
-analyzes	analyzes
+analyze	analyse
+analyzed	analysed
+analyzer	analyser
+analyzes	analyses
 analyzing	analyzing
 anarchy	anarchy
 anatomy	anatomy
@@ -959,7 +959,7 @@ apocalypse	apocalypse
 Apollo	Apollo
 apologies	apologies
 apologise	apologise
-apologize	apologize
+apologise	apologise
 apology	apology
 apoptosis	apoptosis
 apostle	apostle
@@ -1474,11 +1474,11 @@ authorised	authorised
 authoritative	authoritative
 authorities	authorities
 authority	authority
-authorization	authorization
-authorize	authorize
-authorized	authorized
-authorizes	authorizes
-authorizing	authorizing
+authorisation	authorisation
+authorise	authorise
+authorised	authorised
+authorises	authorises
+authorising	authorising
 authors	authors
 autism	autism
 auto	auto
@@ -1880,9 +1880,9 @@ begins	begins
 begun	begun
 behalf	behalf
 behave	behave
-behavior	behavior
-behavioral	behavioral
-behaviors	behaviors
+behaviour	behaviour
+behavioural	behavioural
+behaviours	behaviours
 behaviour	behaviour
 behavioural	behavioural
 behind	behind
@@ -2820,7 +2820,7 @@ calendars	calendars
 calf	calf
 Calgary	Calgary
 Calhoun	Calhoun
-caliber	caliber
+calibre	calibre
 calibration	calibration
 California	California
 call	call
@@ -2878,7 +2878,7 @@ canal	canal
 canary	canary
 Canberra	Canberra
 cancel	cancel
-canceled	canceled
+canceled	cancelled
 cancellation	cancellation
 cancellations	cancellations
 cancelled	cancelled
@@ -2926,7 +2926,7 @@ capita	capita
 capital	capital
 capitalism	capitalism
 capitalist	capitalist
-capitalize	capitalize
+capitalise	capitalise
 capitals	capitals
 capitol	capitol
 capped	capped
@@ -3071,8 +3071,8 @@ casualties	casualties
 casualty	casualty
 cat	cat
 Catalan	Catalan
-catalog	catalog
-catalogs	catalogs
+catalog	catalogue
+catalogs	catalogues
 catalogue	catalogue
 catalogues	catalogues
 catalyst	catalyst
@@ -3085,7 +3085,7 @@ catches	catches
 catching	catching
 catchment	catchment
 categories	categories
-categorized	categorized
+categorised	categorised
 category	category
 cater	cater
 caterer	caterer
@@ -3182,17 +3182,17 @@ censorship	censorship
 census	census
 cent	cent
 centennial	centennial
-center	center
-centered	centered
-centers	centers
+centre	centre
+centred	centred
+centres	centres
 centigrade	centigrade
-centimeter	centimeter
-centimeters	centimeters
+centimetre	centimetre
+centimetres	centimetres
 centimetre	centimetre
 centimetres	centimetres
 centipede	centipede
 central	central
-centralized	centralized
+centralised	centralised
 centrally	centrally
 centre	centre
 centred	centred
@@ -3292,9 +3292,9 @@ char	char
 character	character
 characteristic	characteristic
 characteristics	characteristics
-characterization	characterization
-characterize	characterize
-characterized	characterized
+characterisation	characterisation
+characterise	characterise
+characterised	characterised
 characters	characters
 charcoal	charcoal
 charge	charge
@@ -3570,8 +3570,8 @@ civic	civic
 civil	civil
 civilian	civilian
 civilians	civilians
-civilization	civilization
-civilize	civilize
+civilisation	civilisation
+civilise	civilise
 # cj	cj
 # ck	ck
 # cl	cl
@@ -3882,12 +3882,12 @@ colonial	colonial
 colonies	colonies
 colonnade	colonnade
 colony	colony
-color	color
+colour	colour
 Colorado	Colorado
-colored	colored
-colorful	colorful
-coloring	coloring
-colors	colors
+coloured	coloured
+colourful	colourful
+colouring	colouring
+colours	colours
 colour	colour
 coloured	coloured
 colours	colours
@@ -4103,7 +4103,7 @@ computational	computational
 compute	compute
 computed	computed
 computer	computer
-computerized	computerized
+computerised	computerised
 computers	computers
 Computerworld	Computerworld
 computing	computing
@@ -4346,9 +4346,9 @@ contacts	contacts
 contain	contain
 contained	contained
 container	container
-containerization	containerization
-containerize	containerize
-containerized	containerized
+containerisation	containerisation
+containerise	containerise
+containerised	containerised
 containers	containers
 containing	containing
 containment	containment
@@ -4771,8 +4771,8 @@ critic	critic
 critical	critical
 critically	critically
 criticism	criticism
-criticize	criticize
-criticized	criticized
+criticise	criticise
+criticised	criticised
 critics	critics
 critique	critique
 critiques	critiques
@@ -4927,8 +4927,8 @@ customise	customise
 customised	customised
 customizable	customizable
 customization	customization
-customize	customize
-customized	customized
+customise	customise
+customised	customised
 customizing	customizing
 customs	customs
 cut	cut
@@ -5240,7 +5240,7 @@ defended	defended
 defender	defender
 defenders	defenders
 defending	defending
-defense	defense
+defense	defence
 defenses	defenses
 defensive	defensive
 defer	defer
@@ -6603,9 +6603,9 @@ emotions	emotions
 EMP	EMP
 emperor	emperor
 emphasis	emphasis
-emphasize	emphasize
-emphasized	emphasized
-emphasizes	emphasizes
+emphasise	emphasise
+emphasised	emphasised
+emphasises	emphasises
 empire	empire
 empires	empires
 empirical	empirical
@@ -6693,7 +6693,7 @@ enemies	enemies
 enemy	enemy
 energetic	energetic
 energies	energies
-energize	energize
+energise	energise
 energy	energy
 Enfield	Enfield
 enforce	enforce
@@ -7399,12 +7399,12 @@ faux	faux
 fav	fav
 fave	fave
 favicon	favicon
-favor	favor
-favorable	favorable
-favored	favored
-favorite	favorite
-favorites	favorites
-favors	favors
+favour	favour
+favourable	favourable
+favoured	favoured
+favourite	favourite
+favourites	favourites
+favours	favours
 favour	favour
 favourable	favourable
 favourite	favourite
@@ -7526,9 +7526,9 @@ fewer	fewer
 # fi	fi
 fiance	fiance
 FIAT	FIAT
-fiber	fiber
-fiberglass	fiberglass
-fibers	fibers
+fibre	fibre
+fibreglass	fibreglass
+fibres	fibres
 fibre	fibre
 fiction	fiction
 fictional	fictional
@@ -7729,10 +7729,10 @@ flatbed	flatbed
 flats	flats
 flatten	flatten
 flatter	flatter
-flavor	flavor
-flavored	flavored
-flavoring	flavoring
-flavors	flavors
+flavour	flavour
+flavoured	flavoured
+flavouring	flavouring
+flavours	flavours
 flavour	flavour
 flaw	flaw
 flawed	flawed
@@ -8355,9 +8355,9 @@ gene	gene
 genealogical	genealogical
 genealogy	genealogy
 general	general
-generalization	generalization
-generalize	generalize
-generalized	generalized
+generalisation	generalisation
+generalise	generalise
+generalised	generalised
 generally	generally
 generals	generals
 generate	generate
@@ -8512,7 +8512,7 @@ glitter	glitter
 # gln	gln
 global	global
 globalisation	globalisation
-globalization	globalization
+globalisation	globalisation
 globally	globally
 globe	globe
 globes	globes
@@ -8712,7 +8712,7 @@ grave	grave
 gravel	gravel
 graves	graves
 gravity	gravity
-gray	gray
+gray	grey
 Gray	Gray
 graze	graze
 grazing	grazing
@@ -9000,7 +9000,7 @@ happy	happy
 haptic	haptic
 # har	har
 harassment	harassment
-harbor	harbor
+harbour	harbour
 harbour	harbour
 hard	hard
 hardback	hardback
@@ -9440,11 +9440,11 @@ honeybee	honeybee
 honeymoon	honeymoon
 # hong	hong
 Honolulu	Honolulu
-honor	honor
-honorable	honorable
+honor	honour
+honorable	honourable
 honorary	honorary
-honored	honored
-honors	honors
+honored	honoured
+honors	honours
 honour	honour
 honourable	honourable
 honours	honours
@@ -9704,7 +9704,7 @@ ICQ	ICQ
 ICT	ICT
 ICU	ICU
 icy	icy
-ID	ID
+# ID	ID
 # id	id
 # ida	ida
 Idaho	Idaho
@@ -9824,7 +9824,7 @@ imminent	imminent
 immortal	immortal
 immune	immune
 immunity	immunity
-immunization	immunization
+immunisation	immunisation
 immunology	immunology
 # imo	imo
 # imp	imp
@@ -10034,7 +10034,7 @@ induction	induction
 indulge	indulge
 indulgence	indulgence
 industrial	industrial
-industrialize	industrialize
+industrialise	industrialise
 industries	industries
 industrious	industrious
 industry	industry
@@ -10126,8 +10126,8 @@ inhibitor	inhibitor
 inhibitors	inhibitors
 init	init
 initial	initial
-initialization	initialization
-initialize	initialize
+initialisation	initialisation
+initialise	initialise
 initially	initially
 initials	initials
 initiate	initiate
@@ -10456,7 +10456,6 @@ ion	ion
 # Ionamin	Ionamin
 ionic	ionic
 ions	ions
-iOS	iOS
 iota	iota
 Iowa	Iowa
 IP	IP
@@ -11107,7 +11106,7 @@ labeling	labeling
 labelled	labelled
 labelling	labelling
 labels	labels
-labor	labor
+labour	labour
 laboratories	laboratories
 laboratory	laboratory
 labour	labour
@@ -11638,7 +11637,7 @@ lists	lists
 # Listserv	Listserv
 lit	lit
 lite	lite
-liter	liter
+litre	litre
 literacy	literacy
 literal	literal
 literally	literally
@@ -11701,8 +11700,8 @@ locale	locale
 localhost	localhost
 localities	localities
 locality	locality
-localization	localization
-localized	localized
+localisation	localisation
+localised	localised
 locally	locally
 locals	locals
 locate	locate
@@ -12287,8 +12286,8 @@ max	max
 maxi	maxi
 maxim	maxim
 maximal	maximal
-maximize	maximize
-maximizing	maximizing
+maximise	maximise
+maximising	maximising
 maximum	maximum
 Maxtor	Maxtor
 Maxwell	Maxwell
@@ -12689,9 +12688,9 @@ mini	mini
 miniature	miniature
 miniatures	miniatures
 minimal	minimal
-minimize	minimize
-minimized	minimized
-minimizing	minimizing
+minimise	minimise
+minimised	minimised
+minimising	minimising
 minimum	minimum
 mining	mining
 minion	minion
@@ -12806,8 +12805,8 @@ Mobil	Mobil
 mobile	mobile
 mobiles	mobiles
 mobility	mobility
-mobilization	mobilization
-mobilize	mobilize
+mobilisation	mobilisation
+mobilise	mobilise
 Moby	Moby
 moc	moc
 mock	mock
@@ -12828,7 +12827,7 @@ moderation	moderation
 moderator	moderator
 moderators	moderators
 modern	modern
-modernization	modernization
+modernisation	modernisation
 modes	modes
 modest	modest
 modesty	modesty
@@ -13320,11 +13319,11 @@ negotiating	negotiating
 negotiation	negotiation
 negotiations	negotiations
 Negro	Negro
-neighbor	neighbor
-neighborhood	neighborhood
-neighborhoods	neighborhoods
-neighboring	neighboring
-neighbors	neighbors
+neighbour	neighbour
+neighbourhood	neighbourhood
+neighbourhoods	neighbourhoods
+neighbouring	neighbouring
+neighbours	neighbours
 neighbour	neighbour
 neighbourhood	neighbourhood
 neighbouring	neighbouring
@@ -13545,8 +13544,8 @@ Norfolk	Norfolk
 norm	norm
 Norma	Norma
 normal	normal
-normalization	normalization
-normalized	normalized
+normalisation	normalisation
+normalised	normalised
 normally	normally
 Norman	Norman
 Normans	Normans
@@ -13977,9 +13976,9 @@ optimism	optimism
 optimistic	optimistic
 optimization	optimization
 optimizations	optimizations
-optimize	optimize
-optimized	optimized
-optimizing	optimizing
+optimise	optimise
+optimised	optimised
+optimising	optimising
 optimum	optimum
 option	option
 optional	optional
@@ -14028,14 +14027,14 @@ organisers	organisers
 organising	organising
 organism	organism
 organisms	organisms
-organization	organization
-organizational	organizational
-organizations	organizations
-organize	organize
-organized	organized
-organizer	organizer
-organizers	organizers
-organizing	organizing
+organisation	organisation
+organisational	organisational
+organisations	organisations
+organise	organise
+organised	organised
+organiser	organiser
+organisers	organisers
+organising	organising
 organs	organs
 orgasm	orgasm
 orgasms	orgasms
@@ -14700,8 +14699,8 @@ personal	personal
 personalised	personalised
 personalities	personalities
 personality	personality
-personalize	personalize
-personalized	personalized
+personalise	personalise
+personalised	personalised
 personally	personally
 personals	personals
 personnel	personnel
@@ -15115,8 +15114,8 @@ poker	poker
 Poland	Poland
 polar	polar
 polarity	polarity
-polarization	polarization
-polarized	polarized
+polarisation	polarisation
+polarised	polarised
 Polaroid	Polaroid
 Pole	Pole
 pole	pole
@@ -15546,7 +15545,7 @@ privacy	privacy
 # privat	privat
 private	private
 privately	privately
-privatization	privatization
+privatisation	privatisation
 privilege	privilege
 privileged	privileged
 privileges	privileges
@@ -15958,7 +15957,7 @@ quantify	quantify
 quantitative	quantitative
 quantities	quantities
 quantity	quantity
-quantization	quantization
+quantisation	quantisation
 quantum	quantum
 quark	quark
 quarrel	quarrel
@@ -16112,7 +16111,7 @@ rand	rand
 Randall	Randall
 Randolph	Randolph
 random	random
-randomized	randomized
+randomised	randomised
 randomly	randomly
 randy	randy
 rang	rang
@@ -16212,10 +16211,10 @@ realism	realism
 realistic	realistic
 realities	realities
 reality	reality
-realization	realization
-realize	realize
-realized	realized
-realizing	realizing
+realisation	realisation
+realise	realise
+realised	realised
+realising	realising
 really	really
 realm	realm
 realms	realms
@@ -16287,10 +16286,10 @@ recognise	recognise
 recognised	recognised
 recognition	recognition
 recognizable	recognizable
-recognize	recognize
-recognized	recognized
-recognizes	recognizes
-recognizing	recognizing
+recognise	recognise
+recognised	recognised
+recognises	recognises
+recognising	recognising
 recollect	recollect
 recombinant	recombinant
 recommend	recommend
@@ -16612,7 +16611,7 @@ rentals	rentals
 rented	rented
 renting	renting
 rents	rents
-reorganization	reorganization
+reorganisation	reorganisation
 rep	rep
 repair	repair
 repaired	repaired
@@ -17213,8 +17212,8 @@ rulings	rulings
 rum	rum
 rumble	rumble
 ruminant	ruminant
-rumor	rumor
-rumors	rumors
+rumour	rumour
+rumours	rumours
 rumour	rumour
 Rumsfeld	Rumsfeld
 run	run
@@ -18278,7 +18277,7 @@ skates	skates
 skating	skating
 skeletal	skeletal
 skeleton	skeleton
-skeptical	skeptical
+sceptical	sceptical
 sketch	sketch
 sketches	sketches
 ski	ski
@@ -18683,11 +18682,11 @@ specialised	specialised
 specialist	specialist
 specialists	specialists
 speciality	speciality
-specialization	specialization
-specialize	specialize
-specialized	specialized
-specializes	specializes
-specializing	specializing
+specialisation	specialisation
+specialise	specialise
+specialised	specialised
+specialises	specialises
+specialising	specialising
 specially	specially
 specials	specials
 specialties	specialties
@@ -18865,7 +18864,7 @@ SSL	SSL
 # staa	staa
 stab	stab
 stability	stability
-stabilization	stabilization
+stabilisation	stabilisation
 stable	stable
 stablecoin	stablecoin
 stablecoins	stablecoins
@@ -18913,8 +18912,8 @@ stance	stance
 stand	stand
 standalone	standalone
 standard	standard
-standardization	standardization
-standardized	standardized
+standardisation	standardisation
+standardised	standardised
 standards	standards
 standby	standby
 standing	standing
@@ -19362,8 +19361,8 @@ Sullivan	Sullivan
 sulphur	sulphur
 sum	sum
 summaries	summaries
-summarize	summarize
-summarized	summarized
+summarise	summarise
+summarised	summarised
 summarizes	summarizes
 summary	summary
 summer	summer
@@ -19605,7 +19604,7 @@ symbols	symbols
 symmetric	symmetric
 symmetry	symmetry
 sympathetic	sympathetic
-sympathize	sympathize
+sympathise	sympathise
 sympathy	sympathy
 symphony	symphony
 symposium	symposium
@@ -19614,11 +19613,11 @@ symptoms	symptoms
 # syn	syn
 sync	sync
 synchronic	synchronic
-synchronization	synchronization
-synchronize	synchronize
-synchronized	synchronized
-synchronizes	synchronizes
-synchronizing	synchronizing
+synchronisation	synchronisation
+synchronise	synchronise
+synchronised	synchronised
+synchronises	synchronises
+synchronising	synchronising
 synchronous	synchronous
 syndicate	syndicate
 syndicated	syndicated
@@ -20015,8 +20014,8 @@ that	that
 that's	that's
 # thb	thb
 the	the
-theater	theater
-theaters	theaters
+theatre	theatre
+theatres	theatres
 theatre	theatre
 theatres	theatres
 theatrical	theatrical
@@ -20300,7 +20299,7 @@ toilets	toilets
 toilette	toilette
 Tokelau	Tokelau
 token	token
-tokenization	tokenization
+tokenisation	tokenisation
 tokens	tokens
 Tokyo	Tokyo
 told	told
@@ -20457,8 +20456,8 @@ tradition	tradition
 traditional	traditional
 traditionalist	traditionalist
 traditionalistic	traditionalistic
-traditionalization	traditionalization
-traditionalize	traditionalize
+traditionalisation	traditionalisation
+traditionalise	traditionalise
 traditionally	traditionally
 traditions	traditions
 traffic	traffic
@@ -20739,8 +20738,8 @@ tum	tum
 tumble	tumble
 tumbler	tumbler
 tummy	tummy
-tumor	tumor
-tumors	tumors
+tumour	tumour
+tumours	tumours
 tumour	tumour
 tuna	tuna
 tune	tune
@@ -21151,11 +21150,11 @@ util	util
 utilisation	utilisation
 utilities	utilities
 utility	utility
-utilization	utilization
-utilize	utilize
-utilized	utilized
-utilizes	utilizes
-utilizing	utilizing
+utilisation	utilisation
+utilise	utilise
+utilised	utilised
+utilises	utilises
+utilising	utilising
 utils	utils
 utmost	utmost
 utopia	utopia
@@ -21490,7 +21489,7 @@ visits	visits
 visor	visor
 vista	vista
 visual	visual
-visualization	visualization
+visualisation	visualisation
 visually	visually
 vita	vita
 vitae	vitae
