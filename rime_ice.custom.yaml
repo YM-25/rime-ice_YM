@@ -27,6 +27,7 @@ patch:
     - dddd	对的对的
     - hd	好的
     - haiz	还在
+    - weil	为了
   
   schema/dependencies/+:
     - espanso_symbols
