@@ -28,7 +28,10 @@ patch:
     - hd	好的
     - haiz	还在
     - weil	为了
-  
+    - wenn	温暖 
+    - kann	看你
+    - bank	板块 版块 
+    
   schema/dependencies/+:
     - espanso_symbols
     - melt_de
