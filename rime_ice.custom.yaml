@@ -21,6 +21,7 @@ patch:
     - kanb	看吧    
     - shib	是吧
     - ng	那个 哪个 
+    - suir	虽然
   
   speller/algebra/+:
     # 防止将类似 "dui" 的输入错误当作 "du" + "i(希腊字母打头)"
