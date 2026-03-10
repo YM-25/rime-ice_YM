@@ -19,25 +19,37 @@
 #
 # 最下面的英文是因为一些常用单词的第一候选项被纠错覆盖了，如 Amazon 被纠错为「a ma zong 阿妈粽」，期望的 Amazon 跑到第二个候选项了，所以这里给它固定死喽。
 #
-# version: "2024-03-12"
+# version: "2026-03-10"
 #
 # 此行之后不能写注释
 
-
 go	go
-Golang	golang
-Hugo	hugo
-goto	goto
-domain	domain
-TODO	todo
-Dota	dota
-main	main
 Amazon	amazon
 NASA	nasa
-gone	gone
-Go程	gocheng
-code	code
-SOHO	soho
 PCR	pcr
+ELISA	elisa
 xd	xd
+idk	idk
+idc	idc
+STEM	stem
+e.g.	eg
+i.e.	ie
+etc.	etc
+et al.	etal
+vs.	vs
+ca.	ca
+P.S.	ps
+z.B.	zb
+incl.	incl
+evt.	evt
+bzw.	bzw
+usw.	usw
+e.V.	ev
+OHG	ohg
+GbR	gbr
+MRes.	mres
+BSc.	bsc
+Ph.D.	phd
+Dr.	dr
+Prof.	prof
 
