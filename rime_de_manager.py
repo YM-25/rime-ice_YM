@@ -22,6 +22,18 @@ class RimeDictionaryManager:
         self.umlaut_map_ae = {"ä": "ae", "ö": "oe", "ü": "ue", "ß": "ss"}
         self.umlaut_map_a = {"ä": "a", "ö": "o", "ü": "u", "ß": "s"}
         
+        # Extended mapping for foreign loanwords/common names (e.g., French)
+        self.accent_map = {
+            "é": "e", "è": "e", "ê": "e", "ë": "e",
+            "à": "a", "â": "a",
+            "î": "i", "ï": "i",
+            "ô": "o",
+            "û": "u", "ù": "u",
+            "ç": "c",
+            "ñ": "n",
+            "á": "a", "í": "i", "ó": "o", "ú": "u"
+        }
+        
         self.extra_words = [
             "Apotheke", "Krankenhaus", "Flughafen", "Feuerwehr", "Polizei", 
             "Bürgersteig", "Zebrastreifen", "Umwelt", "Treibhauseffekt", "Bahnhof", 
@@ -39,16 +51,19 @@ class RimeDictionaryManager:
             c1 = c1.replace(char, replacement)
         c1 = re.sub(r'[^a-z]', '', c1)
         
-        # Code 2: a, o, u, s
+        # Code 2: a, o, u, s and other accents
         c2 = w_lower
         for char, replacement in self.umlaut_map_a.items():
+            c2 = c2.replace(char, replacement)
+        for char, replacement in self.accent_map.items():
             c2 = c2.replace(char, replacement)
         c2 = re.sub(r'[^a-z]', '', c2)
         
         codes = [c1]
-        if c2 and c2 != c1:
+        if c2 and c2 != c1 and len(c2) >= len(c1):
             codes.append(c2)
-        return codes
+        # Ensure unique and filtered
+        return list(dict.fromkeys(codes))
 
     def save_rime_dict(self, filename, dict_name, entries):
         """Saves entries in Rime's tab-separated format with YAML header."""
@@ -66,7 +81,14 @@ class RimeDictionaryManager:
         
         # Deduplicate and sort
         df = pd.DataFrame(entries, columns=['Word', 'Code', 'Weight'])
-        df = df.sort_values(by=['Word', 'Code'])
+        # Ensure we drop duplicates based on Word and Code
+        df = df.drop_duplicates(subset=['Word', 'Code'])
+        
+        # Sort case-insensitively for the Word column
+        df = df.sort_values(
+            by=['Word', 'Code'], 
+            key=lambda x: x.str.lower() if x.name == 'Word' else x
+        )
         
         with open(out_path, 'w', encoding='utf-8', newline='\n') as f:
             f.write('\n'.join(header) + '\n')
@@ -160,6 +182,7 @@ class RimeDictionaryManager:
             "Travis", "Trent", "Trevor", "Tricia", "Troy", "Tyler", "Valerie", "Vanessa", "Vera", "Verna", "Vernon", "Veronica", "Vic", "Vicki", "Vickie", "Victor", "Victoria",
             "Vincent", "Viola", "Violet", "Virgil", "Virginia", "Vivian", "Wade", "Wallace", "Walter", "Warren", "Wayne", "Wendell", "Wendy", "Wesley", "Whitney", "Will",
             "Willard", "William", "Willie", "Willis", "Wilson", "Winifred", "Winston", "Wyatt", "Xavier", "Yolanda", "Yvette", "Yvonne", "Zachary", "Zoe",
+            "Hélène", "André", "François", "Françoise", "Gérard", "Jacques", "Jules", "Julien", "Juliette", "José", "Jérôme", "Ramón", "René",
             "New", "London", "Paris", "Sydney", "Houston", "Chicago", "Boston", "Miami", "Vegas", "Dallas", "Detroit", "Philadelphia", "Baltimore", "Kansas", "Arizona",
             "Hawaii", "England"
         }
@@ -218,9 +241,13 @@ class RimeDictionaryManager:
             "Soon", "Sorry", "Still", "Such", "Sure", "Take", "Tell", "Than", "Thank", "Thanks", "That", "The", "Their", "Them", "Themselves", "Then", "There", "Therefore", "These",
             "They", "Thing", "Things", "Think", "This", "Those", "Though", "Thought", "Three", "Through", "Till", "Time", "Together", "Took", "Toward", "Turn", "Two", "Under", "Until",
             "Upon", "Used", "Very", "Wait", "Want", "Wanted", "Whatever", "When", "Where", "Whether", "Which", "While", "Whole", "Whom", "Whose", "World", "Would", "Write", "Year",
-            "Years", "Young", "Your", "Yours", "Viagra"
+            "Years", "Young", "Your", "Yours", "Viagra",
+            "Do", "Doc", "Dock", "Docks", "Doctor", "Dog", "Dogs", "aaah", "aah"
         }
         manual_noise = {n.lower() for n in manual_noise_raw}
+        
+        # Abbreviation and junk filter (case-insensitive)
+        junk_entries = {"v.", "z.b.", "u.", "u.s.", "usw.", "etc.", "w.", "wã", "x.", "z.", "u.a.", "a"}
 
         # Reference map for case correction
         ref_map = {}
@@ -263,8 +290,12 @@ class RimeDictionaryManager:
                     # 3. EN Overlap (don't remove if it's in Ref map)
                     if word_lower in en_words and word_lower not in ref_map:
                         continue
+                    
+                    # 4. Junk and abbreviation filter
+                    if word_lower in junk_entries:
+                        continue
                         
-                    # 4. Filter capitalized words not in reference (mostly names)
+                    # 5. Filter capitalized words not in reference (mostly names)
                     if word[0].isupper() and word_lower not in ref_map:
                         continue
                     

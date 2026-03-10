@@ -21,6 +21,7 @@ patch:
     - woc	卧槽
     - kanb	看吧    
     - shib	是吧
+    - shenm	什么
     - ng	那个 哪个 
     - suir	虽然
     - duid	对的 对的对的
@@ -31,6 +32,7 @@ patch:
     - wenn	温暖 
     - kann	看你
     - bank	板块 版块 
+    - yiban	一般 一版
     
   schema/dependencies/+:
     - espanso_symbols
