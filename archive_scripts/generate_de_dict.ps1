@@ -15,9 +15,6 @@ $chrAe = [string][char]0x00E4
 $chrOe = [string][char]0x00F6
 $chrUe = [string][char]0x00FC
 $chrSs = [string][char]0x00DF
-$chrAeu = [string][char]0x00C4
-$chrOeu = [string][char]0x00D6
-$chrUeu = [string][char]0x00DC
 
 $extraWords = @(
     "Apotheke", "Krankenhaus", "Flughafen", "Feuerwehr", "Polizei", 

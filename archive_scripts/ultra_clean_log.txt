@@ -1,0 +1,893 @@
+[Short] a
+[Short] a.
+[Short] aah
+[Short] aas
+[EN Overlap] abby
+[Short] abe
+[Short] abi
+[Blacklist] about
+[Short] abt
+[Short] abu
+[Short] ace
+[Short] act
+[Short] ada
+[Short] ade
+[Blacklist] after
+[Short] ag
+[Blacklist] again
+[Blacklist] agency
+[Short] ah
+[Short] ahh
+[Short] ahm
+[Short] ähm
+[Short] ähm
+[Short] ai
+[Short] ain
+[Short] air
+[Short] ais
+[Short] aj
+[Short] akt
+[Short] al
+[Short] ale
+[Short] alf
+[Short] all
+[EN Overlap] ally
+[Blacklist] always
+[Blacklist] am
+[Short] ami
+[Short] amy
+[Blacklist] an
+[Short] ana
+[Blacklist] and
+[Short] ans
+[Short] app
+[Short] ära
+[Short] ära
+[Blacklist] archer
+[Blacklist] are
+[Short] ari
+[EN Overlap] aria
+[Blacklist] army
+[Blacklist] around
+[Blacklist] arrow
+[Blacklist] as
+[Short] ash
+[EN Overlap] ashton
+[Short] aß
+[Short] aß
+[Blacklist] at
+[Short] ava
+[Short] ave
+[Blacklist] away
+[Short] ay
+[Short] aye
+[Short] b
+[Short] b.
+[Short] ba
+[Blacklist] baby
+[Blacklist] back
+[Blacklist] bad
+[Short] bäh
+[Short] bäh
+[Short] bam
+[EN Overlap] barb
+[EN Overlap] bash
+[Short] bat
+[Short] bau
+[Short] bay
+[Short] bbc
+[Blacklist] be
+[Short] bea
+[EN Overlap] becky
+[Short] bee
+[Blacklist] been
+[Short] bel
+[Blacklist] believe
+[Short] ber
+[EN Overlap] bethany
+[EN Overlap] betsy
+[Short] bev
+[Short] bh
+[Short] bi
+[EN Overlap] bien
+[Blacklist] big
+[Short] bin
+[Short] bio
+[EN Overlap] bitch
+[Short] bla
+[EN Overlap] blah
+[EN Overlap] blowjob
+[Short] bo
+[Short] bon
+[Short] boo
+[Short] bot
+[Short] bro
+[Short] brr
+[EN Overlap] bryce
+[Short] bub
+[Short] bud
+[Short] buh
+[Short] bum
+[Short] bus
+[Blacklist] but
+[Short] buy
+[Blacklist] by
+[Short] bye
+[Short] c
+[Short] c.
+[Short] ca.
+[Short] cal
+[Blacklist] call
+[Short] cam
+[Blacklist] can
+[Short] cap
+[Blacklist] case
+[Short] cat
+[Blacklist] cause
+[Short] cd
+[Short] cdc
+[Short] cds
+[Short] ceo
+[Short] ch
+[Short] cha
+[EN Overlap] charlottesville
+[EN Overlap] charming
+[Short] che
+[Blacklist] check
+[EN Overlap] cheers
+[EN Overlap] cheese
+[EN Overlap] chevy
+[Short] chi
+[Short] cho
+[EN Overlap] chow
+[EN Overlap] christy
+[Short] chu
+[Short] cia
+[EN Overlap] cinderella
+[Short] cm
+[Short] co
+[EN Overlap] coke
+[EN Overlap] colleen
+[Blacklist] come
+[Short] con
+[EN Overlap] cops
+[Blacklist] could
+[Short] cox
+[EN Overlap] cracker
+[Short] ct
+[Short] ctu
+[Short] cut
+[Short] d
+[Short] d.
+[Blacklist] dad
+[EN Overlap] dads
+[Short] dag
+[Short] dai
+[EN Overlap] dane
+[EN Overlap] darby
+[EN Overlap] dash
+[Short] daß
+[Short] daß
+[Short] dat
+[EN Overlap] dates
+[Short] dax
+[Blacklist] day
+[Short] dc
+[Short] ddr
+[Short] de
+[Short] dea
+[Short] deb
+[Short] dee
+[Short] dei
+[Short] del
+[Short] deo
+[Short] det
+[Short] dev
+[Short] dex
+[Short] di
+[Blacklist] did
+[Short] dj
+[Short] dna
+[Short] dns
+[Blacklist] do
+[Short] doc
+[Short] doe
+[Short] dog
+[Short] doo
+[Short] dot
+[Short] dr
+[Short] dr.
+[Short] dtv
+[EN Overlap] dude
+[Short] dus
+[EN Overlap] dusty
+[Short] dvd
+[Short] e
+[Short] e.
+[Short] eh
+[Short] ehe
+[Short] ehm
+[Short] ei
+[Short] ekg
+[Short] el
+[Short] eli
+[Short] em
+[Short] en
+[Short] ep
+[Short] ess
+[Short] est
+[Short] et
+[Short] eu
+[Short] eve
+[Blacklist] even
+[Blacklist] ever
+[Blacklist] every
+[Blacklist] everybody
+[EN Overlap] evidence
+[Short] ex
+[Short] eye
+[EN Overlap] ezra
+[Short] f
+[Short] f.
+[Short] fã
+[Blacklist] face
+[Short] fat
+[Short] fax
+[Short] fay
+[Short] fbi
+[Short] fe
+[Blacklist] feel
+[Short] fi
+[Blacklist] find
+[Blacklist] first
+[Blacklist] five
+[Short] fly
+[Blacklist] for
+[EN Overlap] forge
+[Blacklist] four
+[Short] fox
+[Short] fr
+[Blacklist] from
+[Short] fry
+[Short] fu
+[EN Overlap] fucking
+[Blacklist] full
+[Short] fun
+[Short] fur
+[Short] g
+[Short] g.
+[Short] gab
+[Short] gäb
+[Short] gäb
+[Short] gag
+[Short] gao
+[EN Overlap] gatsby
+[Short] gay
+[Short] ge
+[Short] geb
+[Short] geh
+[Blacklist] get
+[Short] gib
+[Short] gig
+[Short] gil
+[Blacklist] give
+[Blacklist] go
+[Short] god
+[EN Overlap] gonna
+[Blacklist] good
+[EN Overlap] gossip
+[Blacklist] got
+[Short] gps
+[EN Overlap] grandma
+[EN Overlap] granny
+[Blacklist] great
+[Short] gro
+[Short] gun
+[Short] gus
+[Short] guy
+[Short] h
+[Short] h.
+[Short] hã
+[Short] hab
+[Blacklist] had
+[Short] häh
+[Short] häh
+[Short] hal
+[Blacklist] half
+[Short] ham
+[Short] han
+[Short] hap
+[Blacklist] has
+[EN Overlap] haste
+[EN Overlap] hats
+[Short] hau
+[Blacklist] have
+[EN Overlap] hawthorne
+[EN Overlap] hazel
+[Blacklist] he
+[Blacklist] hear
+[Short] heb
+[Short] heh
+[Short] hei
+[Short] hej
+[Blacklist] hello
+[Blacklist] help
+[Blacklist] here
+[Short] heu
+[Blacklist] him
+[Short] hip
+[Blacklist] his
+[EN Overlap] hive
+[EN Overlap] hmmm
+[Short] ho
+[Short] hob
+[EN Overlap] hobbs
+[Short] hol
+[Blacklist] home
+[EN Overlap] homie
+[Short] hop
+[Blacklist] hope
+[Short] hot
+[Blacklist] how
+[Short] hr
+[Short] hu
+[Short] hü
+[Short] hü
+[Short] hüa
+[Short] hüa
+[Short] huh
+[Short] hui
+[EN Overlap] hutch
+[Short] i.
+[Short] ice
+[Short] ick
+[Short] ida
+[Blacklist] if
+[Short] ig
+[Short] ii
+[Short] ii.
+[Short] iii
+[Short] ike
+[Short] il
+[Blacklist] in
+[Short] inn
+[Short] ins
+[Blacklist] into
+[Short] ios
+[Short] ip
+[Short] iq
+[Short] ira
+[Short] ire
+[Blacklist] is
+[Short] isa
+[EN Overlap] isaiah
+[Short] iss
+[Blacklist] it
+[Short] iv
+[Short] ivy
+[Short] j
+[Short] j.
+[Short] ja.
+[Short] jag
+[EN Overlap] janice
+[Short] jap
+[EN Overlap] jasmine
+[Short] jax
+[Short] jeb
+[Short] jed
+[Short] jem
+[EN Overlap] jenna
+[Short] jep
+[EN Overlap] jeremiah
+[Short] jin
+[Short] jj
+[EN Overlap] jojo
+[EN Overlap] jonah
+[Short] joy
+[Short] jr
+[Short] jt
+[Short] ju
+[Short] jun
+[Short] k
+[Short] k.
+[Short] ka
+[Short] kã
+[Short] kam
+[Short] kar
+[Short] kat
+[EN Overlap] kathryn
+[EN Overlap] katy
+[Short] kay
+[EN Overlap] keen
+[Blacklist] keep
+[Short] kel
+[Short] kes
+[Short] kev
+[Short] key
+[Short] kg
+[Short] kgb
+[Short] kid
+[Blacklist] kind
+[Short] kit
+[Short] km
+[Blacklist] know
+[Short] ko
+[Short] kol
+[EN Overlap] kristen
+[Short] ku
+[Short] kur
+[Short] l
+[Short] l.
+[Short] la
+[Short] lad
+[Short] lag
+[Short] lan
+[Short] las
+[Short] laß
+[Blacklist] last
+[Short] lau
+[Short] law
+[Short] lch
+[Short] le
+[Short] lea
+[EN Overlap] leah
+[Short] leb
+[Short] leg
+[Short] lem
+[Short] len
+[Short] les
+[EN Overlap] lest
+[Blacklist] let
+[Short] lew
+[Short] lex
+[Short] lhm
+[Short] lhr
+[Short] li
+[EN Overlap] libby
+[Blacklist] like
+[Short] lil
+[EN Overlap] lime
+[Short] lip
+[EN Overlap] lisbon
+[Blacklist] little
+[Short] liu
+[Short] liv
+[Blacklist] live
+[Short] liz
+[Short] ll
+[Short] lm
+[Short] ln
+[Short] lo
+[Short] lob
+[Short] log
+[Short] lok
+[Blacklist] long
+[Short] lot
+[Short] lou
+[Blacklist] love
+[Short] lsd
+[Short] lst
+[Short] lt
+[Short] lt.
+[Short] lu
+[Short] luc
+[Short] lud
+[Short] lüg
+[Short] lüg
+[EN Overlap] lung
+[Short] m
+[Short] m.
+[Short] ma
+[Short] mã
+[EN Overlap] macy
+[Short] mad
+[Blacklist] made
+[Short] mae
+[Short] mag
+[Blacklist] make
+[Short] mam
+[Short] man
+[Short] mao
+[EN Overlap] mariana
+[Short] maß
+[Short] maß
+[EN Overlap] mayonnaise
+[Short] mc
+[EN Overlap] mcbride
+[EN Overlap] mccarthy
+[EN Overlap] mccormick
+[EN Overlap] mccoy
+[EN Overlap] mcdonald
+[EN Overlap] mcgee
+[EN Overlap] mcgill
+[Short] mdr
+[Blacklist] me
+[EN Overlap] meadow
+[Blacklist] mean
+[Short] meg
+[Short] mei
+[Short] mel
+[Blacklist] men
+[Short] mer
+[Short] met
+[EN Overlap] meth
+[Short] mg
+[Short] mh
+[Short] mi6
+[EN Overlap] micah
+[EN Overlap] mikes
+[Short] min
+[Blacklist] mind
+[Short] mio
+[EN Overlap] misses
+[EN Overlap] misty
+[Short] mix
+[Short] mmh
+[Short] mo
+[Short] mob
+[Short] moe
+[Short] moi
+[Short] mom
+[EN Overlap] mommy
+[Short] mon
+[Blacklist] more
+[Blacklist] mother
+[EN Overlap] motherfucker
+[Blacklist] move
+[Short] mr
+[Short] mr.
+[Short] mrs
+[Short] mrt
+[Short] ms
+[Short] ms.
+[Short] mu
+[Blacklist] much
+[Short] mum
+[EN Overlap] mummy
+[Short] muß
+[Short] muß
+[Blacklist] must
+[Blacklist] my
+[EN Overlap] myrtle
+[Blacklist] myself
+[EN Overlap] mystic
+[Short] n
+[Short] n.
+[Short] nah
+[Short] nam
+[Short] nan
+[Short] nat
+[Short] ned
+[Blacklist] need
+[Short] nem
+[Short] nen
+[Short] ner
+[EN Overlap] nerd
+[Short] net
+[Blacklist] never
+[Short] ni
+[Blacklist] night
+[Short] nik
+[Blacklist] no
+[Short] no.
+[Short] non
+[Blacklist] nothing
+[Blacklist] now
+[Short] nr.
+[Short] nsa
+[Short] nu
+[Short] o
+[Short] o.
+[Short] odo
+[Blacklist] of
+[Blacklist] off
+[EN Overlap] officers
+[Short] oha
+[Short] ohh
+[Short] oho
+[Short] oi
+[Short] öi
+[Short] öi
+[Short] ok
+[Blacklist] old
+[Short] ole
+[Short] omi
+[Blacklist] on
+[Blacklist] once
+[Blacklist] only
+[Short] ooh
+[Short] op
+[Blacklist] open
+[EN Overlap] ophelia
+[Short] ops
+[Blacklist] or
+[Short] ori
+[Short] ost
+[Blacklist] other
+[Short] oui
+[Blacklist] our
+[Blacklist] out
+[Blacklist] over
+[Short] ow
+[Short] oz
+[Short] p
+[Short] p.
+[Short] pan
+[Blacklist] part
+[Short] pas
+[Short] paß
+[Short] paß
+[Short] pat
+[Short] pc
+[Short] peg
+[Blacklist] people
+[Short] per
+[EN Overlap] philly
+[Short] pi
+[Short] pie
+[Short] pin
+[EN Overlap] pinky
+[Short] pip
+[Short] pj
+[Blacklist] place
+[Blacklist] please
+[Short] poe
+[Blacklist] point
+[Short] pop
+[EN Overlap] poppy
+[Short] por
+[Short] pos
+[Short] pot
+[Short] pr
+[Short] ps
+[Short] pst
+[Short] pub
+[Short] puh
+[Short] pur
+[EN Overlap] pussy
+[Blacklist] put
+[Short] q
+[Short] q.
+[Short] que
+[Short] r
+[Short] r.
+[Short] ra
+[Short] raj
+[Short] ram
+[Short] re
+[Blacklist] real
+[Blacklist] really
+[Short] red
+[Short] reg
+[Short] reh
+[Short] ren
+[Blacklist] right
+[Short] rio
+[Short] rip
+[Short] ro
+[Short] rob
+[Short] rod
+[Short] rom
+[EN Overlap] rooster
+[Short] rue
+[Short] ruh
+[Short] run
+[Short] s
+[Short] s.
+[Short] sa
+[Short] sag
+[Short] sah
+[Blacklist] said
+[Short] sal
+[Short] san
+[EN Overlap] sandwiches
+[Short] saß
+[Short] saß
+[Blacklist] say
+[EN Overlap] scans
+[Short] sch
+[EN Overlap] scooby
+[Short] sdh
+[Short] sdi
+[Short] se
+[Short] sea
+[Short] seh
+[Short] sei
+[Short] sek
+[Short] ser
+[Short] sex
+[Blacklist] she
+[Short] shh
+[Short] si
+[Short] sí
+[Short] sid
+[Blacklist] side
+[Short] sin
+[Short] sir
+[EN Overlap] sire
+[Short] six
+[Short] ski
+[Short] sky
+[EN Overlap] sleepy
+[Blacklist] small
+[EN Overlap] smiley
+[Short] sms
+[EN Overlap] snyder
+[Short] sol
+[Blacklist] some
+[Blacklist] something
+[Short] son
+[EN Overlap] soprano
+[Short] spa
+[EN Overlap] spider-man
+[Short] ss
+[Short] st
+[Short] st.
+[EN Overlap] stacey
+[Short] stu
+[Short] su
+[EN Overlap] subtitles
+[Blacklist] such
+[Short] süd
+[Short] süd
+[Short] sue
+[Short] sun
+[Short] suv
+[Short] syd
+[Short] t
+[Short] t.
+[Short] ta
+[Short] tac
+[EN Overlap] taco
+[Short] tai
+[Short] taj
+[Blacklist] take
+[EN Overlap] tammy
+[Short] tan
+[EN Overlap] tanya
+[Short] tau
+[Short] te
+[EN Overlap] teal
+[Short] tel
+[Blacklist] tell
+[Short] ten
+[Short] tex
+[Blacklist] than
+[Blacklist] thank
+[Blacklist] that
+[Blacklist] the
+[Blacklist] them
+[Blacklist] then
+[Blacklist] there
+[Blacklist] these
+[Blacklist] they
+[Blacklist] thing
+[Blacklist] things
+[Blacklist] think
+[Blacklist] this
+[Blacklist] three
+[Blacklist] through
+[Blacklist] till
+[Blacklist] time
+[Short] tin
+[EN Overlap] tiny
+[Short] tip
+[Short] tj
+[Short] tk
+[Blacklist] to
+[Blacklist] together
+[Short] toi
+[Short] tok
+[Blacklist] too
+[Short] top
+[EN Overlap] trish
+[Short] ts
+[Short] tu
+[EN Overlap] tuck
+[Short] tue
+[Blacklist] turn
+[EN Overlap] turtle
+[Short] tut
+[Short] tv
+[Blacklist] two
+[Short] ty
+[Short] u
+[Short] u.
+[Short] übe
+[Short] übe
+[EN Overlap] uber
+[Short] übt
+[Short] übt
+[Short] udo
+[Short] uff
+[Short] ufo
+[Short] ugh
+[Short] uh
+[Short] uhm
+[Short] ui
+[Short] uld
+[Short] ums
+[Short] un
+[Short] uno
+[Blacklist] up
+[Short] ups
+[Blacklist] us
+[Short] usa
+[Short] uss
+[Short] uwe
+[Short] v.
+[Short] va
+[Short] val
+[EN Overlap] valium
+[Short] van
+[EN Overlap] vaughn
+[Short] ver
+[Blacklist] very
+[Short] vi
+[Short] via
+[Blacklist] viagra
+[Short] vic
+[EN Overlap] vicki
+[Short] vin
+[Short] viv
+[Short] vom
+[Short] w
+[Short] w.
+[Short] wa
+[Short] wã
+[Short] wag
+[Short] wah
+[Short] wan
+[Blacklist] want
+[Short] war
+[Short] wär
+[Short] wär
+[Blacklist] was
+[Short] wat
+[Short] wau
+[Blacklist] way
+[Short] wdr
+[Blacklist] we
+[Short] wei
+[Blacklist] well
+[Blacklist] were
+[Short] wes
+[Blacklist] what
+[Blacklist] when
+[Blacklist] where
+[Blacklist] who
+[Blacklist] why
+[Blacklist] will
+[Blacklist] with
+[Short] won
+[Blacklist] world
+[Blacklist] would
+[Short] wu
+[Short] x
+[Short] x.
+[Short] y
+[Short] ya
+[Short] yan
+[Short] yen
+[Short] yep
+[Blacklist] yes
+[Short] yi
+[Short] yin
+[Short] yo
+[Blacklist] you
+[Blacklist] young
+[Blacklist] your
+[Short] yu
+[Short] z.
+[Short] zac
+[Short] zak
+[Short] zar
+[Short] zdf
+[Short] zeb
+[Short] zeh
+[EN Overlap] zelda
+[Short] zig
+[Short] zod
+[Short] zog
+[Short] zum
+[Short] zur

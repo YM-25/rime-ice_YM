@@ -4,4 +4,5 @@ version: "2024.03.09"
 sort: by_weight
 import_tables:
   - de_dicts/de
+  - de_dicts/de_ext
 ...
