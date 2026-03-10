@@ -33,6 +33,7 @@ patch:
     - kann	看你
     - bank	板块 版块 
     - yiban	一般 一版
+    - sy	所以 所有 使用
     
   schema/dependencies/+:
     - espanso_symbols
