@@ -1,12 +1,48 @@
-# 雾凇拼音
+# 雾凇拼音 (Forked & Customized)
 
-[![License: GPL 3.0](https://img.shields.io/badge/License-GPL--3.0--only-34ad9b)](https://www.gnu.org/licenses/gpl-3.0.txt)
-[![GitHub Release](https://img.shields.io/github/v/release/iDvel/rime-ice?filter=!nightly)](https://github.com/iDvel/rime-ice/releases/)
-[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/iDvel/rime-ice/release.yml)](https://github.com/iDvel/rime-ice/actions/workflows/release.yml)
-![GitHub Repo stars](https://img.shields.io/github/stars/iDvel/rime-ice)
+> [!TIP]
+> 本仓库为 [iDvel/rime-ice](https://github.com/iDvel/rime-ice) 的个人定制fork版。在保持原版强大功能的基础上，针对德语输入、符号快捷输入及个人使用习惯进行了深度优化。
+>
+> 部分功能和特性有待日常使用中debug及优化。
 
+## ✨ 自定义特性
 
-![demo](./others/demo.webp)
+### 1. 🇩🇪 德语输入深度支持 *待后续使用确认，持续更新优化中* （with helps from Gemini）
+- **方案集成**：内置 `melt_de` 德语输入方案，支持全拼/双拼模式下的德语单词录入。
+- **字典管理**：使用 [`rime_de_manager.py`](./rime_de_manager.py) 脚本。
+  - **自动化清理**：自动移除人名、外来词、非法字符及长尾低频词。
+  - **词频优化**：基于 50k 德语语料库进行加权处理，确保首选命中率。
+  - **去噪处理**：过滤垃圾条目，保持词库纯净、高效。
+
+### 2. ⚡ Espanso 风格快捷输入
+- **符号引导**：使用 `i` 作为前缀，快速唤起指定内容以及希腊字母集合（如 `ia` -> `α`）。
+- **极简日期触发**：
+  - `ida` -> `2026.03.10` (short for itime)
+  - `iti` -> `09:33` (short for itime)
+  - `iw`  -> `Tue.` (short for idate)
+  - `idt` -> 2026-03-09T09:33:24+0000
+  - *针对英国夏令时特点，自动随系统切换 GMT (+0000) 与 BST (+0100)。*
+
+### 3. 🎯 词库精简与候选项优化
+- **手动置顶 (Pinning)**：在 [`rime_ice.custom.yaml`](./rime_ice.custom.yaml) 中针对个性化高频词（如：我、是、好的、笑死 等）进行了手动顺序优化，提升瞬时输入感。
+- **库文件精简**：
+  - 精简了英文词汇库，移除冗余、生僻词汇。
+  - 移除了所有不必要的双拼方案文件，保持配置目录整洁，降低加载负担。
+
+### 4. 🛠️ 个性化使用习惯调整及杂项
+- **候选词数量**：默认调整为 `8` 个，兼顾视觉重心与查找效率。
+- **配置持久化**：优化了 `.custom.yaml` 结构，针对核心配置进行解耦。
+
+### 5. 🙏 致谢与参考 (Credits)
+本仓库的自定义特性深受以下开源项目启发或直接使用了其数据资源：
+- [Espanso](https://github.com/espanso/espanso)：启发了 `i` 前缀快捷符号输入的设计理念。
+- [badranX/german-frequency](https://github.com/badranX/german-frequency)：德语基础词库的数据来源。
+- [hermitdave/FrequencyWords](https://github.com/hermitdave/FrequencyWords)：德语 50k 扩展词库的频率数据来源。
+- [rime-melt (tumuyan)](https://github.com/tumuyan/rime-melt)：中英混输及德语方案结构的重要参考。
+
+***分割线后为原始 README***
+
+---
 
 功能齐全，词库体验良好，长期更新修订。
 
